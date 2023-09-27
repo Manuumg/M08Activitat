@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">GridLayout</string>
+    <string name="title">Zoo</string>
+    <string name="subTitle">Animals</string>
+    <string name="wolf">Wolf</string>
+    <string name="eagle">Eagle</string>
+    <string name="bull">Bull</string>
+
 </resources>
