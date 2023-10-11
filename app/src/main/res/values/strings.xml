@@ -5,5 +5,11 @@
     <string name="wolf">Wolf</string>
     <string name="eagle">Eagle</string>
     <string name="bull">Bull</string>
+    <string name="panther">Panther</string>
+    <string name="rhinoceros">Rhinoceros</string>
+    <string name="hippo">Hippo</string>
+    <string name="crocodile">Crocodile</string>
+    <string name="monkey">Monkey</string>
+    <string name="penguin">Penguin</string>
 
 </resources>
